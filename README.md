@@ -7,4 +7,4 @@ Feel free to check folder out and then artifacts to download the executable jar 
 to write something nice where I will use java skills and I will not bore everyone :) In the future I plan refactoring to SOLID rules and better code quality, option to add 
 your own sentence and categories of sentences.
 
-Have fun while playing
+Have fun while playing :) 
